@@ -32,7 +32,7 @@ function SignupForm() {
                         <CalendarDays className="w-8 h-8 text-primary" />
                     </div>
                     <h1 className="text-3xl font-bold text-foreground">Create account</h1>
-                    <p className="text-muted-foreground mt-2">Start organizing your life with Kalendar</p>
+                    <p className="text-muted-foreground mt-2">Start organizing your life with Khalendar</p>
                 </div>
 
                 <div className="bg-muted/50 backdrop-blur-sm border border-border rounded-2xl p-8">

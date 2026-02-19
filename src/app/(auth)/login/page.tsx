@@ -33,7 +33,7 @@ function LoginForm() {
                         <CalendarDays className="w-8 h-8 text-primary" />
                     </div>
                     <h1 className="text-3xl font-bold text-foreground">Welcome back</h1>
-                    <p className="text-muted-foreground mt-2">Sign in to your Kalendar account</p>
+                    <p className="text-muted-foreground mt-2">Sign in to your Khalendar account</p>
                 </div>
 
                 <div className="bg-muted/50 backdrop-blur-sm border border-border rounded-2xl p-8">

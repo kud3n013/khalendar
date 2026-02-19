@@ -1,6 +1,6 @@
-# Kalendar - My own calendar and task management app
-## What is Kalendar
-- Kalendar is a web app to manage events in my life, pivoted to my own personal preferences with the help of LLM (Antigravity). 
+# Khalendar - My own calendar and task management app
+## What is Khalendar
+- Khalendar is a web app to manage events in my life, pivoted to my own personal preferences with the help of LLM (Antigravity). 
 ## What can it do for me as a user
 - Create, store and manage events as well as tasks anywhere, anytime. On both my PC and mobile phones or tablet.  
 - Habit tracking feature built-in to help me track and built habits.

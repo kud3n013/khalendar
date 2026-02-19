@@ -1,4 +1,4 @@
--- Kalendar Database Schema
+-- Khalendar Database Schema
 -- Run these migrations in Supabase SQL Editor
 
 -- ============================================

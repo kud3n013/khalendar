@@ -51,7 +51,7 @@ export function Sidebar() {
                         <div className="w-9 h-9 rounded-xl bg-primary/10 flex items-center justify-center">
                             <CalendarDays className="w-5 h-5 text-primary" />
                         </div>
-                        <span className="text-lg font-bold text-foreground">Kalendar</span>
+                        <span className="text-lg font-bold text-foreground">Khalendar</span>
                     </Link>
                     <button
                         onClick={() => setMobileOpen(false)}
